@@ -1,2 +1,5 @@
 # MH1403
-NTU-MH1403 (Algorithms and Computing) module
+MH1403 (Algorithms and Computing) module from Nanyang Technological University (NTU)
+
+- Python
+- Data structures (Linked lists, Binary Search Trees etc)
