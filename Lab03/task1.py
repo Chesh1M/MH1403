@@ -94,7 +94,7 @@ class BST:
 
 
 mybst = BST(None)
-for i in range(0,6):
+for i in range(0,7):
     mybst.insertNode((i*17 + 3)%37)
 
 # Create lists for 3 traversals
