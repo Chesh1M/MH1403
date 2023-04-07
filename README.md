@@ -1,5 +1,6 @@
 # MH1403
 MH1403 (Algorithms and Computing) module from Nanyang Technological University (NTU)
 
-- Python
+Python
 - Data structures (Linked lists, Binary Search Trees etc)
+- Divide and Conquer algorithm (Merge Sort, Binary Search)
